@@ -4,6 +4,12 @@ Deep learning project for classifying knit fabric textures and dyeing defects us
 
 ---
 
+## 🖼 Certificate
+
+![Certificate](certificate/Certificate.PNG)
+
+---
+
 ## 🚀 Features
 - Image preprocessing: normalization, augmentation, standardization
 - CNN model from scratch for texture classification
@@ -13,7 +19,7 @@ Deep learning project for classifying knit fabric textures and dyeing defects us
 ---
 
 ## 📂 Dataset
-We use the [Fabric Defect Dataset](https://www.kaggle.com/datasets/rmshashi/fabric-defect-dataset).
+I use the [Fabric Defect Dataset](https://www.kaggle.com/datasets/rmshashi/fabric-defect-dataset).
 
 ### REQUIRED:
 You must manually download this dataset from Kaggle and place it in the `data/` folder:
